@@ -1,0 +1,49 @@
+body {
+    margin:10px 0 0 0;
+    padding:5px;
+    color:#000;
+    background-color:#F8F8FF;
+}
+form {
+    margin:5px;
+}
+a {
+    color:#261CDC;
+}
+td {
+    font-size:15px;
+    line-height:30px;
+}
+#top {
+    margin-bottom:5px;
+}
+#footer {
+    line-height:20px;
+    background:#66d8ce;
+    text-align:center;
+    color:#77c;
+    font:12px arial;
+}
+#t1 {
+    background-color:rgb(183, 216, 224);
+    padding:5px 0;
+    table-layout:fixed;
+}
+#t2 {
+    background-color:antiquewhite;
+    padding:5px 0;
+    table-layout:fixed;
+}
+#logo { 
+    float:left;
+    padding:0 0 9px 8px;
+}
+#title {
+    height:20px;
+    background-color:#a1afd6;
+    margin:0 0 0 151px;
+    position:relative;
+    top:22px;
+    font-size:12px;
+    padding:3px 0 0 7px;
+}
